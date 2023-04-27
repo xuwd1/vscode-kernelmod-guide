@@ -66,7 +66,7 @@ This repository shows a guide on developing linux kernel module with vscode and 
    
    
    ```
-   Note that the kernel source already contains a proper `.config` file so no further configuring should be needed unless with other needs, so just `cd` into the source directory and `make` it:
+   Note that the kernel source already contains a proper `.config` file so no further configuring is needed unless with other needs, so just `cd` into the source directory and `make` it:
    
    ```
    $ cd archlinux-linux-x.x.xx
