@@ -1,0 +1,3 @@
+[submodule "vscode-linux-kernel"]
+	path = vscode-linux-kernel
+	url = https://github.com/amezin/vscode-linux-kernel.git
