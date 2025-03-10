@@ -1,3 +1,11 @@
+# !!!! DEPRECATED !!!!
+
+Please see this repository for a more integrated method:
+
+https://github.com/xuwd1/yet-another-cmake-kernel-module
+
+
+
 # Visual Studio Code for Linux kernel module guide
 
 This repository shows a guide on developing linux kernel module with vscode and clangd. This guide was made possible with amezin's [vscode-linux-kernel](https://github.com/amezin/vscode-linux-kernel). Some of the steps in this guide is **arch specific**.
